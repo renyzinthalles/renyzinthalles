@@ -37,3 +37,5 @@
    <a href="https://twitter.com/Renyzin"><img height="52em" src="https://www.freeiconspng.com/thumbs/logo-twitter-png/blue-logo-twitter-birds-emblem-3.png"></a>
 </div>
   
+ ![Snake animation](https://github.com/renyzinthalles/renyzinthalles/blob/output/github-contribution-grid-snake.svg)
+  
