@@ -22,8 +22,10 @@
 </h3>
   
 <div style="display:inline-block;">
-   <img height="60em" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
-   <img height="60em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">
+   <img height="52em" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
+   <img height="52em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">
+   <img height="52em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/2060px-Visual_Studio_Icon_2019.svg.png">
+   <img height="52em" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
 </div>
 <h2>
   Github Estatísticas
@@ -31,7 +33,7 @@
   Indisponível
 <h2>Mídias Sociais:</h2>
   <div style="display:inline-block;">
-   <a href="https://www.facebook.com/renyzinthalles/"><img height="60em" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/facebook_logo_icon_147291.png"></a>
-   <a href="https://twitter.com/Renyzin"><img height="60em" src="https://www.freeiconspng.com/thumbs/logo-twitter-png/blue-logo-twitter-birds-emblem-3.png"></a>
+   <a href="https://www.facebook.com/renyzinthalles/"><img height="52em" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/facebook_logo_icon_147291.png"></a>
+   <a href="https://twitter.com/Renyzin"><img height="52em" src="https://www.freeiconspng.com/thumbs/logo-twitter-png/blue-logo-twitter-birds-emblem-3.png"></a>
 </div>
   
