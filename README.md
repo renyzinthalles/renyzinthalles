@@ -30,8 +30,8 @@
 <h2>
   Github Estatísticas
 </h2>
-   <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renyzinthalles&layout=compact&langs_count=8&theme=white"/>
+   <a href="https://github.com/renyzinthalles">
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renyzinthalles&layout=compact&langs_count=8&theme=white"/>
 <h2>Mídias Sociais:</h2>
   <div style="display:inline-block;">
    <a href="https://www.facebook.com/renyzinthalles/"><img height="52em" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/facebook_logo_icon_147291.png"></a>
