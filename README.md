@@ -2,7 +2,7 @@
   <h2> 🎮 Sobre mim</h2>
  
 <pre>
-   function() main {
+   function main() {
      std::string name = "Thalles Vitor";
      std::string type = "Programador Freelancer"
      std::string location = "Brazil"
