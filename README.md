@@ -4,10 +4,10 @@
 <pre>
    function main() {
      std::string name = "Thalles Vitor";
-     std::string type = "Programador Freelancer"
-     std::string location = "Brazil"
-     std::string languages[] = {"C++", "LUA"}
-     std::string waiting_langauges = {"PHP", "Java", "JavaScript", "C#"}
+     std::string type = "Programador Freelancer";
+     std::string location = "Brazil";
+     std::string languages[] = {"C++", "LUA"};
+     std::string waiting_langauges = {"PHP", "Java", "JavaScript", "C#"};
    }
 </pre>
   
