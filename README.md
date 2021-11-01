@@ -7,7 +7,7 @@
      std::string type = "Programador Freelancer";
      std::string location = "Brazil";
      std::string languages[] = {"C++", "LUA"};
-     std::string waiting_langauges = {"PHP", "Java", "JavaScript", "C#"};
+     std::string waiting_langauges[] = {"PHP", "Java", "JavaScript", "C#"};
    }
 </pre>
   
