@@ -6,8 +6,8 @@
      std::string name = "Thalles Vitor";
      std::string type = "Programador Freelancer";
      std::string location = "Brazil";
-     std::string languages[] = {"C++", "LUA"};
-     std::string waiting_langauges[] = {"PHP", "C#"};
+     std::string languages[] = {"C++", "LUA", "PHP"};
+     std::string waiting_langauges[] = {"C#"};
    }
 </pre>
   
