@@ -4,7 +4,7 @@
 <pre>
    function main() {
      std::string name = "Thalles Vitor";
-     std::string type = "Programador";
+     std::string type = "Programmer";
      std::string owner_company = "Gaming Link";
      std::string location = "Brazil";
      std::string languages[] = {"C++", "LUA", "PHP"};
