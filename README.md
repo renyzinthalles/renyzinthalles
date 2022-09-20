@@ -7,8 +7,8 @@
      std::string type = "Programmer";
      std::string owner_company = "Gaming Link";
      std::string location = "Brazil";
-     std::string languages[] = {"C++", "LUA", "PHP"};
-     std::string waiting_langauges[] = {"C#"};
+     std::string languages[] = {"C++", "C#", "LUA", "PHP"};
+     std::string waiting_langauges[] = {"};
    }
 </pre>
   
