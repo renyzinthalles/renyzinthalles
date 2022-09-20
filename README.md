@@ -31,13 +31,13 @@
 <h2>
   Github Estatísticas
 </h2>
-   <a href="https://github.com/renyzinthalles">
-  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renyzinthalles&layout=compact&langs_count=8&theme=white"/>
+   <a href="https://github.com/thallesvitors">
+  <img height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thallesvitors&layout=compact&langs_count=8&theme=white"/>
 <h2>Mídias Sociais:</h2>
   <div style="display:inline-block;">
-   <a href="https://www.facebook.com/renyzinthalles/"><img height="52em" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/facebook_logo_icon_147291.png"></a>
+   <a href="https://www.facebook.com/thallesvitors/"><img height="52em" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/facebook_logo_icon_147291.png"></a>
    <a href="https://twitter.com/Renyzin"><img height="52em" src="https://www.freeiconspng.com/thumbs/logo-twitter-png/blue-logo-twitter-birds-emblem-3.png"></a>
 </div>
   
- ![Snake animation](https://github.com/renyzinthalles/renyzinthalles/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/renyzinthalles/thallesvitors/blob/output/github-contribution-grid-snake.svg)
   
