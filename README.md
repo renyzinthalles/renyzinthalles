@@ -5,10 +5,10 @@
    function main() {
      std::string name = "Thalles Vitor";
      std::string type = "Programmer";
-     std::string owner_company = "Gaming Link";
+     std::string owner_company = "Gaming Link Studios";
      std::string location = "Brazil";
      std::string languages[] = {"C++", "C#", "LUA", "PHP"};
-     std::string waiting_langauges[] = {"};
+     std::string waiting_langauges[] = {""};
    }
 </pre>
   
